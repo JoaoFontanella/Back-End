@@ -33,5 +33,5 @@ public class Exercicio07Application {
 }
 
 //Url de teste:
-//http://localhost:8080/recomendacao?ambientacao=1&genero=1
-//http://localhost:8080/recomendacao?ambientacao=2&genero=1
+//  http://localhost:8080/recomendacao?ambientacao=1&genero=1
+//  http://localhost:8080/recomendacao?ambientacao=2&genero=1
