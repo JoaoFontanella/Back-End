@@ -1,0 +1,9 @@
+Mateus Buogo destacou a importância de pensar em segurança no desenvolvimento das aplicações. Cite pelo menos duas tecnologias que podem ser utilizadas para proteger sistemas de backend contra ataques cibernéticos.
+
+RESPOSTA:
+
+Autenticação Multifator (MFA): 
+Implementação de múltiplos métodos de autenticação para verificar a identidade de usuários, dificultando o acesso de intrusos.
+
+Hashing e Salting de Senhas: 
+Usar algoritmos de hashing com salting garante que as senhas dos usuários sejam armazenadas de forma segura, dificultando a ação de invasores em caso de vazamento de banco de dados.
